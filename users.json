@@ -1,0 +1,598 @@
+[{
+  "_id": {
+    "$oid": "5fc7f40ea657c3419cd1e283"
+  },
+  "username": "superAdmin",
+  "password": "superAdmin",
+  "usertype": 0,
+  "nameSurname": "Super Admin",
+  "regionName": "Admin",
+  "branches": [],
+  "createdAt": {
+    "$date": "2021-05-15T20:07:42.872Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-15T20:07:42.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "username": "GURKAN",
+  "password": "1234",
+  "usertype": 1,
+  "nameSurname": "GÜRKAN ASLAN",
+  "regionName": "GÜRKAN",
+  "branches": [
+    {
+      "_id": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI"
+    },
+    {
+      "_id": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN"
+    },
+    {
+      "_id": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ"
+    },
+    {
+      "_id": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ"
+    },
+    {
+      "_id": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU"
+    },
+    {
+      "_id": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU"
+    },
+    {
+      "_id": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA"
+    },
+    {
+      "_id": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT"
+    },
+    {
+      "_id": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR"
+    },
+    {
+      "_id": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR"
+    },
+    {
+      "_id": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN"
+    },
+    {
+      "_id": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS"
+    },
+    {
+      "_id": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL"
+    },
+    {
+      "_id": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN"
+    },
+    {
+      "_id": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN"
+    },
+    {
+      "_id": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN"
+    },
+    {
+      "_id": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE"
+    },
+    {
+      "_id": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP"
+    },
+    {
+      "_id": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS"
+    },
+    {
+      "_id": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT"
+    },
+    {
+      "_id": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-05-15T08:58:08.438Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-16T11:01:32.629Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "username": "NAİM",
+  "password": "1234",
+  "usertype": 1,
+  "nameSurname": "NAİM KILIÇ",
+  "regionName": "NAİM",
+  "branches": [
+    {
+      "_id": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA"
+    },
+    {
+      "_id": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA"
+    },
+    {
+      "_id": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA"
+    },
+    {
+      "_id": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ"
+    },
+    {
+      "_id": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA"
+    },
+    {
+      "_id": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG"
+    },
+    {
+      "_id": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI"
+    },
+    {
+      "_id": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR"
+    },
+    {
+      "_id": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU"
+    },
+    {
+      "_id": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK"
+    },
+    {
+      "_id": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-05-15T09:05:56.725Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T16:44:54.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "username": "SELAMİ",
+  "password": "1234",
+  "usertype": 1,
+  "nameSurname": "SELAMİ YAVUZ",
+  "regionName": "SELAMİ",
+  "branches": [
+    {
+      "_id": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2"
+    },
+    {
+      "_id": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY"
+    },
+    {
+      "_id": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI"
+    },
+    {
+      "_id": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-05-15T09:23:42.951Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-14T14:33:59.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "username": "ÜMİTTATAR",
+  "password": "1234",
+  "usertype": 1,
+  "nameSurname": "ÜMİT TATAR",
+  "regionName": "ÜMİT",
+  "branches": [
+    {
+      "_id": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE"
+    },
+    {
+      "_id": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE"
+    },
+    {
+      "_id": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP"
+    },
+    {
+      "_id": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-05-15T09:32:44.270Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-17T11:59:51.899Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "username": "YAHYA",
+  "password": "1234",
+  "usertype": 1,
+  "nameSurname": "YAHYA",
+  "regionName": "YAHYA",
+  "branches": [
+    {
+      "_id": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE"
+    },
+    {
+      "_id": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI"
+    },
+    {
+      "_id": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-05-15T09:37:40.834Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-16T11:50:05.632Z"
+  },
+  "__v": 0
+}]

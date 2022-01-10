@@ -1,0 +1,4525 @@
+[{
+  "_id": {
+    "$oid": "60a2996699366100177e9ac8"
+  },
+  "userID": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T17:35:35.960Z"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "regionName": "NAİM",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ac9"
+      },
+      "branchID": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA",
+      "totalSale": 20419
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9aca"
+      },
+      "branchID": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA",
+      "totalSale": 8074
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9acb"
+      },
+      "branchID": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA",
+      "totalSale": 4483
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9acc"
+      },
+      "branchID": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ",
+      "totalSale": 14023
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9acd"
+      },
+      "branchID": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA",
+      "totalSale": 4985
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ace"
+      },
+      "branchID": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG",
+      "totalSale": 5164
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9acf"
+      },
+      "branchID": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI",
+      "totalSale": 7844
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ad0"
+      },
+      "branchID": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR",
+      "totalSale": 7904
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ad1"
+      },
+      "branchID": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU",
+      "totalSale": 8979
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ad2"
+      },
+      "branchID": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK",
+      "totalSale": 21339
+    },
+    {
+      "_id": {
+        "$oid": "60a2996699366100177e9ad3"
+      },
+      "branchID": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ",
+      "totalSale": 37603
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-17T17:35:35.960Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2aa6ef72ee50017833fec"
+  },
+  "userID": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T17:42:47.345Z"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "regionName": "YAHYA",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833fed"
+      },
+      "branchID": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL",
+      "totalSale": 6628
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833fee"
+      },
+      "branchID": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK",
+      "totalSale": 4603
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833fef"
+      },
+      "branchID": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI",
+      "totalSale": 4300
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833ff0"
+      },
+      "branchID": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL",
+      "totalSale": 4507
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833ff1"
+      },
+      "branchID": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA",
+      "totalSale": 4883
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833ff2"
+      },
+      "branchID": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE",
+      "totalSale": 15323
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833ff3"
+      },
+      "branchID": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI",
+      "totalSale": 8338
+    },
+    {
+      "_id": {
+        "$oid": "60a2aa6ef72ee50017833ff4"
+      },
+      "branchID": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT",
+      "totalSale": 20158
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-17T17:42:47.345Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2afd9f72ee500178340a4"
+  },
+  "userID": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:18:13.067Z"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "regionName": "GÜRKAN",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340a5"
+      },
+      "branchID": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI",
+      "totalSale": 9615
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340a6"
+      },
+      "branchID": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN",
+      "totalSale": 12192
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340a7"
+      },
+      "branchID": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM",
+      "totalSale": 3265
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340a8"
+      },
+      "branchID": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN",
+      "totalSale": 8531
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340a9"
+      },
+      "branchID": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT",
+      "totalSale": 3177
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340aa"
+      },
+      "branchID": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI",
+      "totalSale": 7979
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340ab"
+      },
+      "branchID": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN",
+      "totalSale": 8194
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340ac"
+      },
+      "branchID": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ",
+      "totalSale": 5113
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340ad"
+      },
+      "branchID": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ",
+      "totalSale": 4774
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340ae"
+      },
+      "branchID": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU",
+      "totalSale": 6844
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340af"
+      },
+      "branchID": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU",
+      "totalSale": 6895
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b0"
+      },
+      "branchID": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA",
+      "totalSale": 7100
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b1"
+      },
+      "branchID": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT",
+      "totalSale": 14746
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b2"
+      },
+      "branchID": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR",
+      "totalSale": 15308
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b3"
+      },
+      "branchID": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR",
+      "totalSale": 9553
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b4"
+      },
+      "branchID": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN",
+      "totalSale": 6713
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b5"
+      },
+      "branchID": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS",
+      "totalSale": 12774
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b6"
+      },
+      "branchID": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL",
+      "totalSale": 7867
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b7"
+      },
+      "branchID": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN",
+      "totalSale": 6534
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b8"
+      },
+      "branchID": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN",
+      "totalSale": 2513
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340b9"
+      },
+      "branchID": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN",
+      "totalSale": 24448
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340ba"
+      },
+      "branchID": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE",
+      "totalSale": 22743
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340bb"
+      },
+      "branchID": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP",
+      "totalSale": 8892
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340bc"
+      },
+      "branchID": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS",
+      "totalSale": 6154
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340bd"
+      },
+      "branchID": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT",
+      "totalSale": 10814
+    },
+    {
+      "_id": {
+        "$oid": "60a2afd9f72ee500178340be"
+      },
+      "branchID": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP",
+      "totalSale": 4235
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-17T18:18:13.067Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2b778f72ee50017834122"
+  },
+  "userID": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T18:36:32.263Z"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "regionName": "ÜMİT",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834123"
+      },
+      "branchID": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN",
+      "totalSale": 6000
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834124"
+      },
+      "branchID": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA",
+      "totalSale": 5302
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834125"
+      },
+      "branchID": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY",
+      "totalSale": 5093
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834126"
+      },
+      "branchID": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT",
+      "totalSale": 11363
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834127"
+      },
+      "branchID": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI",
+      "totalSale": 6136
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834128"
+      },
+      "branchID": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ",
+      "totalSale": 6543
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee50017834129"
+      },
+      "branchID": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR",
+      "totalSale": 3146
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee5001783412a"
+      },
+      "branchID": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE",
+      "totalSale": 8413
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee5001783412b"
+      },
+      "branchID": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE",
+      "totalSale": 5714
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee5001783412c"
+      },
+      "branchID": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP",
+      "totalSale": 2412
+    },
+    {
+      "_id": {
+        "$oid": "60a2b778f72ee5001783412d"
+      },
+      "branchID": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE",
+      "totalSale": 4687
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-17T18:36:32.263Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a2493ec10a340017015903"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-17T19:24:20.573Z"
+  },
+  "date": {
+    "$date": "2021-05-17T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015904"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 6735
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015905"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 7836
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015906"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 5176
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015907"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 3094
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015908"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 6126
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015909"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 7793
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590a"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 4129
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590b"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 4232
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590c"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 7153
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590d"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 6190
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590e"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 5902
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a34001701590f"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 2840
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015910"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 4098
+    },
+    {
+      "_id": {
+        "$oid": "60a2493ec10a340017015911"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 2850
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-17T19:24:20.573Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a3fa1d0b835e0017615f59"
+  },
+  "userID": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-18T17:34:26.706Z"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "regionName": "YAHYA",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5a"
+      },
+      "branchID": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL",
+      "totalSale": 4812
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5b"
+      },
+      "branchID": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK",
+      "totalSale": 4483
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5c"
+      },
+      "branchID": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI",
+      "totalSale": 3260
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5d"
+      },
+      "branchID": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL",
+      "totalSale": 4808
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5e"
+      },
+      "branchID": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA",
+      "totalSale": 4940
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f5f"
+      },
+      "branchID": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE",
+      "totalSale": 16547
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f60"
+      },
+      "branchID": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI",
+      "totalSale": 6502
+    },
+    {
+      "_id": {
+        "$oid": "60a3fa1d0b835e0017615f61"
+      },
+      "branchID": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT",
+      "totalSale": 16939
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-18T17:34:26.706Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a3ff080b835e0017615fd0"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-18T18:01:34.330Z"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd1"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 5784
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd2"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 7681
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd3"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 5780
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd4"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 3209
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd5"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 5518
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd6"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 7146
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd7"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 3903
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd8"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 4604
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fd9"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 6291
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fda"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 5577
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fdb"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 6105
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fdc"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 2841
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fdd"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 3701
+    },
+    {
+      "_id": {
+        "$oid": "60a3ff080b835e0017615fde"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 2813
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-18T18:01:34.330Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a401000b835e001761600f"
+  },
+  "userID": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-18T18:04:02.124Z"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "regionName": "NAİM",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616010"
+      },
+      "branchID": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA",
+      "totalSale": 13187
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616011"
+      },
+      "branchID": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA",
+      "totalSale": 6681
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616012"
+      },
+      "branchID": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA",
+      "totalSale": 4583
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616013"
+      },
+      "branchID": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ",
+      "totalSale": 11346
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616014"
+      },
+      "branchID": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA",
+      "totalSale": 4341
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616015"
+      },
+      "branchID": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG",
+      "totalSale": 4595
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616016"
+      },
+      "branchID": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI",
+      "totalSale": 8266
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616017"
+      },
+      "branchID": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR",
+      "totalSale": 6779
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616018"
+      },
+      "branchID": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU",
+      "totalSale": 7823
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e0017616019"
+      },
+      "branchID": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK",
+      "totalSale": 18044
+    },
+    {
+      "_id": {
+        "$oid": "60a401000b835e001761601a"
+      },
+      "branchID": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ",
+      "totalSale": 34405
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-18T18:04:02.124Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a404ce0b835e001761603d"
+  },
+  "userID": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-18T18:21:36.164Z"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "regionName": "GÜRKAN",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761603e"
+      },
+      "branchID": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI",
+      "totalSale": 6460
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761603f"
+      },
+      "branchID": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN",
+      "totalSale": 7831
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616040"
+      },
+      "branchID": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM",
+      "totalSale": 4107
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616041"
+      },
+      "branchID": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN",
+      "totalSale": 6106
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616042"
+      },
+      "branchID": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT",
+      "totalSale": 3046
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616043"
+      },
+      "branchID": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI",
+      "totalSale": 6290
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616044"
+      },
+      "branchID": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN",
+      "totalSale": 7139
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616045"
+      },
+      "branchID": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ",
+      "totalSale": 5105
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616046"
+      },
+      "branchID": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ",
+      "totalSale": 4992
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616047"
+      },
+      "branchID": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU",
+      "totalSale": 5703
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616048"
+      },
+      "branchID": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU",
+      "totalSale": 4601
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616049"
+      },
+      "branchID": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA",
+      "totalSale": 4733
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604a"
+      },
+      "branchID": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT",
+      "totalSale": 14966
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604b"
+      },
+      "branchID": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR",
+      "totalSale": 15252
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604c"
+      },
+      "branchID": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR",
+      "totalSale": 7078
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604d"
+      },
+      "branchID": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN",
+      "totalSale": 5167
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604e"
+      },
+      "branchID": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS",
+      "totalSale": 9438
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e001761604f"
+      },
+      "branchID": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL",
+      "totalSale": 5414
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616050"
+      },
+      "branchID": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN",
+      "totalSale": 4519
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616051"
+      },
+      "branchID": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN",
+      "totalSale": 2421
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616052"
+      },
+      "branchID": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN",
+      "totalSale": 16501
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616053"
+      },
+      "branchID": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE",
+      "totalSale": 17669
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616054"
+      },
+      "branchID": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP",
+      "totalSale": 6890
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616055"
+      },
+      "branchID": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS",
+      "totalSale": 5417
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616056"
+      },
+      "branchID": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT",
+      "totalSale": 7308
+    },
+    {
+      "_id": {
+        "$oid": "60a404ce0b835e0017616057"
+      },
+      "branchID": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP",
+      "totalSale": 3582
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-18T18:21:36.164Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a406240b835e0017616072"
+  },
+  "userID": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-18T18:24:36.716Z"
+  },
+  "date": {
+    "$date": "2021-05-18T00:00:00Z"
+  },
+  "regionName": "ÜMİT",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616073"
+      },
+      "branchID": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN",
+      "totalSale": 4968
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616074"
+      },
+      "branchID": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA",
+      "totalSale": 4863
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616075"
+      },
+      "branchID": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY",
+      "totalSale": 5293
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616076"
+      },
+      "branchID": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT",
+      "totalSale": 10292
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616077"
+      },
+      "branchID": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI",
+      "totalSale": 5431
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616078"
+      },
+      "branchID": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ",
+      "totalSale": 6304
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e0017616079"
+      },
+      "branchID": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR",
+      "totalSale": 4114
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e001761607a"
+      },
+      "branchID": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE",
+      "totalSale": 8251
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e001761607b"
+      },
+      "branchID": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE",
+      "totalSale": 5415
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e001761607c"
+      },
+      "branchID": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP",
+      "totalSale": 2731
+    },
+    {
+      "_id": {
+        "$oid": "60a406240b835e001761607d"
+      },
+      "branchID": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE",
+      "totalSale": 5920
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-18T18:24:36.716Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a5494933c3c10017b984cc"
+  },
+  "userID": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-19T17:28:04.771Z"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "regionName": "NAİM",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984cd"
+      },
+      "branchID": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA",
+      "totalSale": 11966
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984ce"
+      },
+      "branchID": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA",
+      "totalSale": 5696
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984cf"
+      },
+      "branchID": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA",
+      "totalSale": 3772
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d0"
+      },
+      "branchID": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ",
+      "totalSale": 8592
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d1"
+      },
+      "branchID": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA",
+      "totalSale": 4131
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d2"
+      },
+      "branchID": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG",
+      "totalSale": 3870
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d3"
+      },
+      "branchID": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI",
+      "totalSale": 6329
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d4"
+      },
+      "branchID": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR",
+      "totalSale": 4886
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d5"
+      },
+      "branchID": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU",
+      "totalSale": 6227
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d6"
+      },
+      "branchID": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK",
+      "totalSale": 11857
+    },
+    {
+      "_id": {
+        "$oid": "60a5494933c3c10017b984d7"
+      },
+      "branchID": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ",
+      "totalSale": 20580
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-19T17:28:04.771Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a550f433c3c10017b98517"
+  },
+  "userID": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-19T18:00:47.313Z"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "regionName": "GÜRKAN",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98518"
+      },
+      "branchID": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI",
+      "totalSale": 5092
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98519"
+      },
+      "branchID": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN",
+      "totalSale": 5321
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851a"
+      },
+      "branchID": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM",
+      "totalSale": 3815
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851b"
+      },
+      "branchID": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN",
+      "totalSale": 3542
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851c"
+      },
+      "branchID": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT",
+      "totalSale": 1951
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851d"
+      },
+      "branchID": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI",
+      "totalSale": 5272
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851e"
+      },
+      "branchID": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN",
+      "totalSale": 3728
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9851f"
+      },
+      "branchID": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ",
+      "totalSale": 3916
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98520"
+      },
+      "branchID": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ",
+      "totalSale": 4273
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98521"
+      },
+      "branchID": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU",
+      "totalSale": 4439
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98522"
+      },
+      "branchID": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU",
+      "totalSale": 3200
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98523"
+      },
+      "branchID": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA",
+      "totalSale": 5217
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98524"
+      },
+      "branchID": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT",
+      "totalSale": 8650
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98525"
+      },
+      "branchID": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR",
+      "totalSale": 12202
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98526"
+      },
+      "branchID": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR",
+      "totalSale": 5440
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98527"
+      },
+      "branchID": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN",
+      "totalSale": 4384
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98528"
+      },
+      "branchID": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS",
+      "totalSale": 8093
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98529"
+      },
+      "branchID": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL",
+      "totalSale": 6705
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852a"
+      },
+      "branchID": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN",
+      "totalSale": 4001
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852b"
+      },
+      "branchID": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN",
+      "totalSale": 1924
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852c"
+      },
+      "branchID": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN",
+      "totalSale": 16955
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852d"
+      },
+      "branchID": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE",
+      "totalSale": 13422
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852e"
+      },
+      "branchID": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP",
+      "totalSale": 9916
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b9852f"
+      },
+      "branchID": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS",
+      "totalSale": 4963
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98530"
+      },
+      "branchID": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT",
+      "totalSale": 6386
+    },
+    {
+      "_id": {
+        "$oid": "60a550f433c3c10017b98531"
+      },
+      "branchID": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP",
+      "totalSale": 2862
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-19T18:00:47.313Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a54ded33c3c10017b984fc"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-19T18:06:23.436Z"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b984fd"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 6050
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b984fe"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 6662
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b984ff"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 4657
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98500"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 3659
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98501"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 5767
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98502"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 3411
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98503"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 4073
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98504"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 4077
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98505"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 5589
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98506"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 5477
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98507"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 5705
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98508"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 3438
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b98509"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 4019
+    },
+    {
+      "_id": {
+        "$oid": "60a54ded33c3c10017b9850a"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 2100
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-19T18:06:23.436Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a559af33c3c10017b98614"
+  },
+  "userID": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-19T18:33:37.958Z"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "regionName": "ÜMİT",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b98615"
+      },
+      "branchID": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN",
+      "totalSale": 4277
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b98616"
+      },
+      "branchID": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA",
+      "totalSale": 4357
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b98617"
+      },
+      "branchID": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY",
+      "totalSale": 4450
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b98618"
+      },
+      "branchID": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT",
+      "totalSale": 10965
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b98619"
+      },
+      "branchID": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI",
+      "totalSale": 4536
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861a"
+      },
+      "branchID": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ",
+      "totalSale": 5145
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861b"
+      },
+      "branchID": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR",
+      "totalSale": 3831
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861c"
+      },
+      "branchID": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE",
+      "totalSale": 5744
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861d"
+      },
+      "branchID": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE",
+      "totalSale": 5136
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861e"
+      },
+      "branchID": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP",
+      "totalSale": 1656
+    },
+    {
+      "_id": {
+        "$oid": "60a559af33c3c10017b9861f"
+      },
+      "branchID": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE",
+      "totalSale": 4236
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-19T18:33:37.958Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a55ae633c3c10017b9862b"
+  },
+  "userID": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-19T18:39:54.467Z"
+  },
+  "date": {
+    "$date": "2021-05-19T00:00:00Z"
+  },
+  "regionName": "YAHYA",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b9862c"
+      },
+      "branchID": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL",
+      "totalSale": 5816
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b9862d"
+      },
+      "branchID": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK",
+      "totalSale": 3638
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b9862e"
+      },
+      "branchID": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI",
+      "totalSale": 3806
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b9862f"
+      },
+      "branchID": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL",
+      "totalSale": 3876
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b98630"
+      },
+      "branchID": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA",
+      "totalSale": 5224
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b98631"
+      },
+      "branchID": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE",
+      "totalSale": 11098
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b98632"
+      },
+      "branchID": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI",
+      "totalSale": 6429
+    },
+    {
+      "_id": {
+        "$oid": "60a55ae633c3c10017b98633"
+      },
+      "branchID": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT",
+      "totalSale": 11703
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-19T18:39:54.467Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a6a25d3751780017bcdb67"
+  },
+  "userID": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-20T18:03:04.566Z"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "regionName": "NAİM",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb68"
+      },
+      "branchID": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA",
+      "totalSale": 11343
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb69"
+      },
+      "branchID": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA",
+      "totalSale": 4554
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6a"
+      },
+      "branchID": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA",
+      "totalSale": 3798
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6b"
+      },
+      "branchID": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ",
+      "totalSale": 7638
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6c"
+      },
+      "branchID": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA",
+      "totalSale": 3729
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6d"
+      },
+      "branchID": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG",
+      "totalSale": 4445
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6e"
+      },
+      "branchID": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI",
+      "totalSale": 6857
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb6f"
+      },
+      "branchID": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR",
+      "totalSale": 5311
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb70"
+      },
+      "branchID": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU",
+      "totalSale": 6269
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb71"
+      },
+      "branchID": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK",
+      "totalSale": 12539
+    },
+    {
+      "_id": {
+        "$oid": "60a6a25d3751780017bcdb72"
+      },
+      "branchID": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ",
+      "totalSale": 20270
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-20T18:03:04.566Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a6a4363751780017bcdbac"
+  },
+  "userID": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-20T18:04:48.799Z"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "regionName": "YAHYA",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbad"
+      },
+      "branchID": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL",
+      "totalSale": 4986
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbae"
+      },
+      "branchID": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK",
+      "totalSale": 4544
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbaf"
+      },
+      "branchID": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI",
+      "totalSale": 3299
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbb0"
+      },
+      "branchID": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL",
+      "totalSale": 3701
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbb1"
+      },
+      "branchID": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA",
+      "totalSale": 4492
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbb2"
+      },
+      "branchID": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE",
+      "totalSale": 12222
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbb3"
+      },
+      "branchID": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI",
+      "totalSale": 4801
+    },
+    {
+      "_id": {
+        "$oid": "60a6a4363751780017bcdbb4"
+      },
+      "branchID": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT",
+      "totalSale": 10983
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-20T18:04:48.799Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a6a3753751780017bcdb94"
+  },
+  "userID": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-20T18:06:15.388Z"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "regionName": "ÜMİT",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb95"
+      },
+      "branchID": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN",
+      "totalSale": 5041
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb96"
+      },
+      "branchID": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA",
+      "totalSale": 5263
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb97"
+      },
+      "branchID": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY",
+      "totalSale": 4038
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb98"
+      },
+      "branchID": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT",
+      "totalSale": 9619
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb99"
+      },
+      "branchID": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI",
+      "totalSale": 5205
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9a"
+      },
+      "branchID": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ",
+      "totalSale": 4118
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9b"
+      },
+      "branchID": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR",
+      "totalSale": 2778
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9c"
+      },
+      "branchID": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE",
+      "totalSale": 5709
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9d"
+      },
+      "branchID": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE",
+      "totalSale": 4466
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9e"
+      },
+      "branchID": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP",
+      "totalSale": 2143
+    },
+    {
+      "_id": {
+        "$oid": "60a6a3753751780017bcdb9f"
+      },
+      "branchID": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE",
+      "totalSale": 4928
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-20T18:06:15.388Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a6a7e03751780017bcdbf5"
+  },
+  "userID": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-20T18:32:00.875Z"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "regionName": "GÜRKAN",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbf6"
+      },
+      "branchID": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI",
+      "totalSale": 5919
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbf7"
+      },
+      "branchID": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN",
+      "totalSale": 5416
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbf8"
+      },
+      "branchID": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM",
+      "totalSale": 3275
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbf9"
+      },
+      "branchID": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN",
+      "totalSale": 5741
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbfa"
+      },
+      "branchID": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT",
+      "totalSale": 2597
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbfb"
+      },
+      "branchID": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI",
+      "totalSale": 6165
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbfc"
+      },
+      "branchID": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN",
+      "totalSale": 4728
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbfd"
+      },
+      "branchID": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ",
+      "totalSale": 3296
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbfe"
+      },
+      "branchID": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ",
+      "totalSale": 5233
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdbff"
+      },
+      "branchID": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU",
+      "totalSale": 4534
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc00"
+      },
+      "branchID": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU",
+      "totalSale": 3079
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc01"
+      },
+      "branchID": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA",
+      "totalSale": 4412
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc02"
+      },
+      "branchID": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT",
+      "totalSale": 10189
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc03"
+      },
+      "branchID": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR",
+      "totalSale": 11783
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc04"
+      },
+      "branchID": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR",
+      "totalSale": 4606
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc05"
+      },
+      "branchID": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN",
+      "totalSale": 4314
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc06"
+      },
+      "branchID": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS",
+      "totalSale": 7717
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc07"
+      },
+      "branchID": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL",
+      "totalSale": 5621
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc08"
+      },
+      "branchID": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN",
+      "totalSale": 4029
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc09"
+      },
+      "branchID": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN",
+      "totalSale": 1573
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0a"
+      },
+      "branchID": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN",
+      "totalSale": 12934
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0b"
+      },
+      "branchID": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE",
+      "totalSale": 13012
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0c"
+      },
+      "branchID": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP",
+      "totalSale": 7676
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0d"
+      },
+      "branchID": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS",
+      "totalSale": 3952
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0e"
+      },
+      "branchID": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT",
+      "totalSale": 6733
+    },
+    {
+      "_id": {
+        "$oid": "60a6a7e03751780017bcdc0f"
+      },
+      "branchID": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP",
+      "totalSale": 2925
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-20T18:32:00.875Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a6b1843751780017bcdc5a"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-20T19:08:17.611Z"
+  },
+  "date": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc5b"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 4731
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc5c"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 8100
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc5d"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 5290
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc5e"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 3143
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc5f"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 4823
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc60"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 5448
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc61"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 2982
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc62"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 7408
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc63"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 6109
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc64"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 4600
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc65"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 6111
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc66"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 2888
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc67"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 4342
+    },
+    {
+      "_id": {
+        "$oid": "60a6b1843751780017bcdc68"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 1987
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-20T19:08:17.611Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a7efda4f705f00171b05d7"
+  },
+  "userID": {
+    "$oid": "5fcc9ef4333a0b00171d8fd8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-21T17:57:45.196Z"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "regionName": "NAİM",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05d8"
+      },
+      "branchID": {
+        "$oid": "60019157172bf900172c60f3"
+      },
+      "branchNo": "2340",
+      "branchName": "İZMİR BORNOVA",
+      "totalSale": 13070
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05d9"
+      },
+      "branchID": {
+        "$oid": "6001916e172bf900172c60f4"
+      },
+      "branchNo": "2339",
+      "branchName": "İZMİR BOZYAKA",
+      "totalSale": 6427
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05da"
+      },
+      "branchID": {
+        "$oid": "60019187172bf900172c60f5"
+      },
+      "branchNo": "2347",
+      "branchName": "İZMİR YEŞİLOVA",
+      "totalSale": 5021
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05db"
+      },
+      "branchID": {
+        "$oid": "6001919d172bf900172c60f6"
+      },
+      "branchNo": "2349",
+      "branchName": "İZMİR ÇİGLİ",
+      "totalSale": 8770
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05dc"
+      },
+      "branchID": {
+        "$oid": "600191b8172bf900172c60f7"
+      },
+      "branchNo": "2353",
+      "branchName": "İZMİR GÜMÜŞPALA",
+      "totalSale": 3636
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05dd"
+      },
+      "branchID": {
+        "$oid": "600191ca172bf900172c60f8"
+      },
+      "branchNo": "2351",
+      "branchName": "İZMİR ALTINDAG",
+      "totalSale": 6523
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05de"
+      },
+      "branchID": {
+        "$oid": "600191dc172bf900172c60f9"
+      },
+      "branchNo": "2477",
+      "branchName": "İZMİR KEMERALTI",
+      "totalSale": 6499
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05df"
+      },
+      "branchID": {
+        "$oid": "600191f1172bf900172c60fa"
+      },
+      "branchNo": "2499",
+      "branchName": "İZMİR GAZİEMİR",
+      "totalSale": 6628
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05e0"
+      },
+      "branchID": {
+        "$oid": "605a07b2a5cc4e0017b77696"
+      },
+      "branchNo": "2591",
+      "branchName": "İZMİR SEVGİYOLU",
+      "totalSale": 6448
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05e1"
+      },
+      "branchID": {
+        "$oid": "606203f82263090017b6ca78"
+      },
+      "branchNo": "2474",
+      "branchName": "UŞAK",
+      "totalSale": 13625
+    },
+    {
+      "_id": {
+        "$oid": "60a7efda4f705f00171b05e2"
+      },
+      "branchID": {
+        "$oid": "606204062263090017b6ca79"
+      },
+      "branchNo": "2502",
+      "branchName": "DENİZLİ",
+      "totalSale": 28399
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-21T17:57:45.196Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a7f72b4f705f00171b0667"
+  },
+  "userID": {
+    "$oid": "5fcc9d20333a0b00171d8fb9"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-21T18:20:59.140Z"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "regionName": "GÜRKAN",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0668"
+      },
+      "branchID": {
+        "$oid": "5fcfaf396c1a5000172dad26"
+      },
+      "branchNo": "2367",
+      "branchName": "AGRI",
+      "totalSale": 5812
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0669"
+      },
+      "branchID": {
+        "$oid": "5fcfaf466c1a5000172dad27"
+      },
+      "branchNo": "2389",
+      "branchName": "ERZİNCAN",
+      "totalSale": 6773
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066a"
+      },
+      "branchID": {
+        "$oid": "5fcfaf4f6c1a5000172dad28"
+      },
+      "branchNo": "2394",
+      "branchName": "ERZURUM",
+      "totalSale": 2847
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066b"
+      },
+      "branchID": {
+        "$oid": "5fcfaf956c1a5000172dad2d"
+      },
+      "branchNo": "2415",
+      "branchName": "ERZURUM HORASAN",
+      "totalSale": 4911
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066c"
+      },
+      "branchID": {
+        "$oid": "5fcfafbd6c1a5000172dad2f"
+      },
+      "branchNo": "2428",
+      "branchName": "AĞRI ELEŞKİRT",
+      "totalSale": 2282
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066d"
+      },
+      "branchID": {
+        "$oid": "5fcfaffa6c1a5000172dad32"
+      },
+      "branchNo": "2489",
+      "branchName": "04 AGRI",
+      "totalSale": 5125
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066e"
+      },
+      "branchID": {
+        "$oid": "6017fe0f4488e200179de16f"
+      },
+      "branchNo": "2542",
+      "branchName": "65 VAN",
+      "totalSale": 6576
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b066f"
+      },
+      "branchID": {
+        "$oid": "6027c3e6261cc300170db697"
+      },
+      "branchNo": "2369",
+      "branchName": "VAN ERCİŞ",
+      "totalSale": 4214
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0670"
+      },
+      "branchID": {
+        "$oid": "6027c3f5261cc300170db698"
+      },
+      "branchNo": "2373",
+      "branchName": "VAN MARAŞ",
+      "totalSale": 4979
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0671"
+      },
+      "branchID": {
+        "$oid": "6027c411261cc300170db699"
+      },
+      "branchNo": "2376",
+      "branchName": "VAN SUVAROĞLU",
+      "totalSale": 5554
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0672"
+      },
+      "branchID": {
+        "$oid": "6027c422261cc300170db69a"
+      },
+      "branchNo": "2385",
+      "branchName": "VAN İPEKYOLU",
+      "totalSale": 4105
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0673"
+      },
+      "branchID": {
+        "$oid": "6027c439261cc300170db69b"
+      },
+      "branchNo": "2399",
+      "branchName": "VAN NURBABA",
+      "totalSale": 4310
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0674"
+      },
+      "branchID": {
+        "$oid": "6027c44c261cc300170db69c"
+      },
+      "branchNo": "2430",
+      "branchName": "AĞRI DOGUBEYAZIT",
+      "totalSale": 11178
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0675"
+      },
+      "branchID": {
+        "$oid": "6027c460261cc300170db69d"
+      },
+      "branchNo": "2444",
+      "branchName": "DİYARBAKIR",
+      "totalSale": 13525
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0676"
+      },
+      "branchID": {
+        "$oid": "6027c46c261cc300170db69e"
+      },
+      "branchNo": "2491",
+      "branchName": "IGDIR",
+      "totalSale": 6340
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0677"
+      },
+      "branchID": {
+        "$oid": "6027c47b261cc300170db69f"
+      },
+      "branchNo": "2506",
+      "branchName": "BATMAN",
+      "totalSale": 4341
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0678"
+      },
+      "branchID": {
+        "$oid": "6027c488261cc300170db6a0"
+      },
+      "branchNo": "2519",
+      "branchName": "AGRI PATNOS",
+      "totalSale": 8452
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0679"
+      },
+      "branchID": {
+        "$oid": "6027c497261cc300170db6a1"
+      },
+      "branchNo": "2452",
+      "branchName": "BİNGÖL",
+      "totalSale": 6727
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067a"
+      },
+      "branchID": {
+        "$oid": "6027c4b2261cc300170db6a2"
+      },
+      "branchNo": "2433",
+      "branchName": "BİTLİS TATVAN",
+      "totalSale": 5952
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067b"
+      },
+      "branchID": {
+        "$oid": "603112561fe7cb0017985357"
+      },
+      "branchNo": "2560",
+      "branchName": "HATAY KIRIKHAN",
+      "totalSale": 2304
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067c"
+      },
+      "branchID": {
+        "$oid": "603513111cf8670017e508a8"
+      },
+      "branchNo": "2563",
+      "branchName": "HATAY İSKENDERUN",
+      "totalSale": 16879
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067d"
+      },
+      "branchID": {
+        "$oid": "6040a1609c66cb00170d315b"
+      },
+      "branchNo": "2573",
+      "branchName": "OSMANİYE",
+      "totalSale": 15554
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067e"
+      },
+      "branchID": {
+        "$oid": "607e6565792b2d00172ffd75"
+      },
+      "branchNo": "2621",
+      "branchName": "GAZİANTEP",
+      "totalSale": 4840
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b067f"
+      },
+      "branchID": {
+        "$oid": "607e6570792b2d00172ffd76"
+      },
+      "branchNo": "2622",
+      "branchName": "KİLİS",
+      "totalSale": 6109
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0680"
+      },
+      "branchID": {
+        "$oid": "6087eefd32544200173a64b4"
+      },
+      "branchNo": "2629",
+      "branchName": "SİİRT",
+      "totalSale": 6504
+    },
+    {
+      "_id": {
+        "$oid": "60a7f72b4f705f00171b0681"
+      },
+      "branchID": {
+        "$oid": "6087ef0c32544200173a64b5"
+      },
+      "branchNo": "2631",
+      "branchName": "NİZİP",
+      "totalSale": 2285
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-21T18:20:59.140Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a7fc544f705f00171b06b3"
+  },
+  "userID": {
+    "$oid": "5fcca664333a0b00171d9010"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-21T18:33:03.339Z"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "regionName": "YAHYA",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b4"
+      },
+      "branchID": {
+        "$oid": "5fcfb5456c1a5000172dad76"
+      },
+      "branchNo": "2234",
+      "branchName": "MUSTAFA KEMAL",
+      "totalSale": 6614
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b5"
+      },
+      "branchID": {
+        "$oid": "5fcfb5546c1a5000172dad77"
+      },
+      "branchNo": "2259",
+      "branchName": "BAŞIBÜYÜK",
+      "totalSale": 4744
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b6"
+      },
+      "branchID": {
+        "$oid": "5fcfb5726c1a5000172dad79"
+      },
+      "branchNo": "2276",
+      "branchName": "FINDIKLI",
+      "totalSale": 4742
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b7"
+      },
+      "branchID": {
+        "$oid": "5fcfb5916c1a5000172dad7b"
+      },
+      "branchNo": "2307",
+      "branchName": "İKBAL",
+      "totalSale": 4886
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b8"
+      },
+      "branchID": {
+        "$oid": "5fcfb59f6c1a5000172dad7c"
+      },
+      "branchNo": "2424",
+      "branchName": "ESATPAŞA",
+      "totalSale": 6299
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06b9"
+      },
+      "branchID": {
+        "$oid": "5fcfb5bb6c1a5000172dad7e"
+      },
+      "branchNo": "2410",
+      "branchName": "GEBZE",
+      "totalSale": 11582
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06ba"
+      },
+      "branchID": {
+        "$oid": "5fcfb5dd6c1a5000172dad80"
+      },
+      "branchNo": "2450",
+      "branchName": "ADAPAZARI",
+      "totalSale": 6783
+    },
+    {
+      "_id": {
+        "$oid": "60a7fc544f705f00171b06bb"
+      },
+      "branchID": {
+        "$oid": "605cac90092f510017ad2fa4"
+      },
+      "branchNo": "2588",
+      "branchName": "İZMİT",
+      "totalSale": 13273
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-21T18:33:03.339Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a805c54f705f00171b0707"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-21T19:15:40.588Z"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0708"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 5598
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0709"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 7832
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070a"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 6105
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070b"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 3393
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070c"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 4668
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070d"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 5625
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070e"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 3815
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b070f"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 5137
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0710"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 5612
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0711"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 6436
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0712"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 6918
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0713"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 2130
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0714"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 3841
+    },
+    {
+      "_id": {
+        "$oid": "60a805c54f705f00171b0715"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 2620
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-21T19:15:40.588Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a80fb34f705f00171b0724"
+  },
+  "userID": {
+    "$oid": "5fcca53c333a0b00171d8ffd"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-21T19:54:54.100Z"
+  },
+  "date": {
+    "$date": "2021-05-21T00:00:00Z"
+  },
+  "regionName": "ÜMİT",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b0725"
+      },
+      "branchID": {
+        "$oid": "5fcfb4146c1a5000172dad66"
+      },
+      "branchNo": "2162",
+      "branchName": "ÇAĞLAYAN",
+      "totalSale": 5101
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b0726"
+      },
+      "branchID": {
+        "$oid": "5fcfb4246c1a5000172dad67"
+      },
+      "branchNo": "136",
+      "branchName": "GAZİOSMANPAŞA",
+      "totalSale": 4198
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b0727"
+      },
+      "branchID": {
+        "$oid": "5fcfb4486c1a5000172dad69"
+      },
+      "branchNo": "127",
+      "branchName": "KÜÇÜKKÖY",
+      "totalSale": 4132
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b0728"
+      },
+      "branchID": {
+        "$oid": "5fcfb4596c1a5000172dad6a"
+      },
+      "branchNo": "130",
+      "branchName": "4.LEVENT",
+      "totalSale": 9139
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b0729"
+      },
+      "branchID": {
+        "$oid": "5fcfb46d6c1a5000172dad6b"
+      },
+      "branchNo": "129",
+      "branchName": "OKMEYDANI",
+      "totalSale": 5609
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072a"
+      },
+      "branchID": {
+        "$oid": "5fcfb4ba6c1a5000172dad6f"
+      },
+      "branchNo": "2333",
+      "branchName": "GAZİ MAHALLESİ",
+      "totalSale": 3472
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072b"
+      },
+      "branchID": {
+        "$oid": "5fcfb4cd6c1a5000172dad70"
+      },
+      "branchNo": "2344",
+      "branchName": "YEŞİLPINAR",
+      "totalSale": 3719
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072c"
+      },
+      "branchID": {
+        "$oid": "5fcfb5236c1a5000172dad74"
+      },
+      "branchNo": "2472",
+      "branchName": "ÇELİKTEPE",
+      "totalSale": 7504
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072d"
+      },
+      "branchID": {
+        "$oid": "60141eeaa2fc0300178a5481"
+      },
+      "branchNo": "2544",
+      "branchName": "GÜLTEPE",
+      "totalSale": 4902
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072e"
+      },
+      "branchID": {
+        "$oid": "60631030d10f2f001799813a"
+      },
+      "branchNo": "2597",
+      "branchName": "BAĞLARBAŞI GOP",
+      "totalSale": 2263
+    },
+    {
+      "_id": {
+        "$oid": "60a80fb34f705f00171b072f"
+      },
+      "branchID": {
+        "$oid": "60782ab7cf1818001779cf62"
+      },
+      "branchNo": "2613",
+      "branchName": "FETİHTEPE",
+      "totalSale": 4934
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-21T19:54:54.100Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a8fea41263a20ed408c0da"
+  },
+  "userID": {
+    "$oid": "5fcca31e333a0b00171d8fe6"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-22T12:53:43.125Z"
+  },
+  "date": {
+    "$date": "2021-05-22T00:00:00Z"
+  },
+  "regionName": "SELAMİ",
+  "salesByBranches": [
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0db"
+      },
+      "branchID": {
+        "$oid": "5fcfb1c96c1a5000172dad4d"
+      },
+      "branchNo": "143",
+      "branchName": "AVCILAR",
+      "totalSale": 8965
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0dc"
+      },
+      "branchID": {
+        "$oid": "5fcfb1d76c1a5000172dad4e"
+      },
+      "branchNo": "135",
+      "branchName": "ÇOBANÇEŞME",
+      "totalSale": 5896
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0dd"
+      },
+      "branchID": {
+        "$oid": "5fcfb1e26c1a5000172dad4f"
+      },
+      "branchNo": "121",
+      "branchName": "DEREYOLU",
+      "totalSale": 1111
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0de"
+      },
+      "branchID": {
+        "$oid": "5fcfb1fd6c1a5000172dad51"
+      },
+      "branchNo": "117",
+      "branchName": "KANARYA",
+      "totalSale": 4875
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0df"
+      },
+      "branchID": {
+        "$oid": "5fcfb2096c1a5000172dad52"
+      },
+      "branchNo": "118",
+      "branchName": "CENNET",
+      "totalSale": 6786
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e0"
+      },
+      "branchID": {
+        "$oid": "5fcfb2166c1a5000172dad53"
+      },
+      "branchNo": "2174",
+      "branchName": "YAYLA",
+      "totalSale": 7857
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e1"
+      },
+      "branchID": {
+        "$oid": "5fcfb2286c1a5000172dad54"
+      },
+      "branchNo": "2322",
+      "branchName": "SEFAKÖY 2",
+      "totalSale": 7857
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e2"
+      },
+      "branchID": {
+        "$oid": "5fcfb23a6c1a5000172dad55"
+      },
+      "branchNo": "2396",
+      "branchName": "KANARYA 2",
+      "totalSale": 7855
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e3"
+      },
+      "branchID": {
+        "$oid": "5fcfb24a6c1a5000172dad56"
+      },
+      "branchNo": "145",
+      "branchName": "BAKIRKÖY",
+      "totalSale": 8575
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e4"
+      },
+      "branchID": {
+        "$oid": "5fcfb25b6c1a5000172dad57"
+      },
+      "branchNo": "2487",
+      "branchName": "YILDIRIM BEYAZIT",
+      "totalSale": 5785
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e5"
+      },
+      "branchID": {
+        "$oid": "5fcfb26b6c1a5000172dad58"
+      },
+      "branchNo": "2517",
+      "branchName": "TEPEÜSTÜ 2",
+      "totalSale": 7857
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e6"
+      },
+      "branchID": {
+        "$oid": "6006dc92a1daae0017ac8b3b"
+      },
+      "branchNo": "2536",
+      "branchName": "MAHMUTBEY",
+      "totalSale": 7857
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e7"
+      },
+      "branchID": {
+        "$oid": "60378e9664dc1e00179039cc"
+      },
+      "branchNo": "2569",
+      "branchName": "ODABAŞI",
+      "totalSale": 7578
+    },
+    {
+      "_id": {
+        "$oid": "60a8fea41263a20ed408c0e8"
+      },
+      "branchID": {
+        "$oid": "6050c1d7fd7c6c001715a132"
+      },
+      "branchNo": "2567",
+      "branchName": "ZEYTİNBURNU",
+      "totalSale": 7857
+    }
+  ],
+  "updatedAt": {
+    "$date": "2021-05-22T12:54:18.110Z"
+  }
+}]
